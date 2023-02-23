@@ -1,2 +1,2 @@
 # odin-recipes
-Basic repository to touch up HTML
+Touch up on html and writing recipies 
